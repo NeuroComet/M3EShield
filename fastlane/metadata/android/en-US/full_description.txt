@@ -1,0 +1,1 @@
+M3E Shield is an open-source, root-less Ad Blocker and DNS-over-UDP Forwarder. It intercepts all outgoing DNS requests and tunnels them to encrypted, privacy-respecting DNS providers like AdGuard, Cloudflare, and Quad9.

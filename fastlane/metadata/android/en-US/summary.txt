@@ -1,0 +1,1 @@
+"A modern, privacy-first system-wide DNS Ad Blocker."  
