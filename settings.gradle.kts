@@ -12,8 +12,6 @@ pluginManagement {
     }
 }
 
-// The plugins { id("org.gradle.toolchains.foojay-resolver-convention") ... } block must stay deleted
-
 dependencyResolutionManagement {
     repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
     repositories {
